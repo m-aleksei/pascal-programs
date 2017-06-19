@@ -3,7 +3,7 @@ TASKS OF 'NUMERICAL METHODS' COURSE // ЗАДАЧИ КУРСА "ЧИСЛЕННЫ
 // -------------------------------------------------------------------
 
 1. Spline interpolation / Аппроксимация сплайном
-2. Inverse matrix / Вычисление обратной матрицы
+2. Inverse matrix computation / Вычисление обратной матрицы
 3. Cauchy problem for the first-order ODE / Решение задачи Коши для ОДУ 1 порядка
 4. Cauchy problem for the second-order ODE / Решение задачи Коши для ОДУ 2 порядка
 5. Gaussian elimination (triangular and diagonal form) / Решение СЛАУ методом Гаусса (треугольный и диагональный вид)
@@ -13,7 +13,7 @@ TASKS OF 'NUMERICAL METHODS' COURSE // ЗАДАЧИ КУРСА "ЧИСЛЕННЫ
 9. Sweep line algorithm for linear system with tridiagonal matrix / Метод прогонки для СЛАУ с трехдиагональной матрицей
 10. Simpson's rule (numerical integration) / Решение определенного интеграла методом Симпсона
 11. Gradient descent for the linear systems / Решение СЛАУ методом градиентного спуска
-12. Shooting method for cauchy problem (second-order ODE) / Решение задачи Коши методом стрельбы (ОДУ 2 порядка)
+12. Shooting method for Cauchy problem (second-order ODE) / Решение задачи Коши методом стрельбы (ОДУ 2 порядка)
 13. Heat equation (2D, mixed boundary condition) / Решение уравнения теплопроводности (2D, смешанные граничные условия)
 14. Poisson equation (2D, first-type boundary condition) / Решение уравнения Пуассона (2D, граничные условия 1 рода)
 
