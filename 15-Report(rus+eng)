@@ -1,0 +1,20 @@
+An approximate calculation of the Fourier coefficients by the 12-ordinate scheme. 
+/ Приближенное вычисление коэффициентов Фурье схемой 12 ординат.
+
+For y = f (x), the values at equidistant points xN = Pi * N / 6 of the interval [0; 2 * Pi] are given, and y0 = y12.
+
+In the 1st program, we set 12 points, then the coefficients a0, a1, a2, a3, b1, b2, b3 
+and the Fourier polynomial for this function is constructed.
+
+In the 2nd program, we define a function for which the same coefficients are calculated,
+and the Fourier polynomial is also constructed.
+
+
+/ Для y = f(x) заданы значения в равноотстоящих точках xN = Pi*N/6 отрезка [0;2*Pi]
+причем y0 = y12.
+
+В первой программе задаем 12 точек, по ней находятся коэффициенты a0,a1,a2,a3,b1,b2,b3 
+и строится полином Фурье для этой функции.
+
+Во второй программе задаем функцию, для которой вычисляются те же коэффициенты, 
+и так же строится полином Фурье.
