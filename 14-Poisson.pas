@@ -1,4 +1,4 @@
-PROGRAM puasson;
+PROGRAM poisson;
 USES crt;
 TYPE
   Vect = ARRAY [0..100] OF REAL;
