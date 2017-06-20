@@ -1,5 +1,5 @@
 # pascal-programs
-This repository contains tasks solutions of 'Numerical methods' course (Pascal code).
+This repository contains numerical solutions on Pascal.
 
-// last update: 15.06.2017
+// last update: 20.06.2017
 
