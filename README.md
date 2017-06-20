@@ -19,7 +19,7 @@ This repository contains numerical solutions on Pascal.
 12. Shooting method for Cauchy problem (second-order ODE) / Решение задачи Коши методом стрельбы (ОДУ 2 порядка)
 13. Heat equation (2D, mixed boundary condition) / Решение уравнения теплопроводности (2D, смешанные граничные условия)
 14. Poisson equation (2D, first-type boundary condition) / Решение уравнения Пуассона (2D, граничные условия 1 рода)
-15. Fourier coefficients calculation (see 15-Report.txt) / Приближенное вычисление коэффициентов Фурье (см. 15-Report.txt)
+15. Fourier coefficients calculation (see "15-Report") / Приближенное вычисление коэффициентов Фурье (см. "15-Report")
 
 // ----------------------------------------------------------
 
