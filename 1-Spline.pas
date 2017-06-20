@@ -1,4 +1,4 @@
-PROGRAM splain;
+PROGRAM spline;
 USES crt;
 TYPE
   Vect = ARRAY[0..20] OF REAL;
